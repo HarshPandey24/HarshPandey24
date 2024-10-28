@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshPandey24
-- 👀 I’m interested in Data Aanlytics 
+- 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Python, Sql , Power BI
 - 💞️ I’m looking to collaborate on Data analysis , buissness analysis
 - 📫 Reach me through my email harshpandey.harsh2004@gmail.com
