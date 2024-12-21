@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Sql , Power BI
 - 💞️ I’m looking to collaborate on Data analysis , buissness analysis
 - 📫 Reach me through my email harshpandey.harsh2004@gmail.com
-- my linkedin Profile link https://www.linkedin.com/in/harsh-pandey-935330258/
+-  My linkedin Profile link https://www.linkedin.com/in/harsh-pandey-935330258/
   
 <!---
 HarshPandey24/HarshPandey24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
