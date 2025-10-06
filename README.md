@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshPandey24
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Python, Sql , Power BI
-- 💞️ I’m looking to collaborate on Data analysis , buissness analysis
+- 🌱 I’m currently learning Python, Sql ,MS Excel,Power BI
+- 💞️ I’m looking to collaborate on Data analysis , buissness analysis , Product analysis
 - 📫 Reach me through my email harshpandey.harsh2004@gmail.com
 -  My linkedin Profile link https://www.linkedin.com/in/harshpandey2402/
   
